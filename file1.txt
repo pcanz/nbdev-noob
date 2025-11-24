@@ -3,3 +3,6 @@
 A file I wrote in VSCode after cloning the nbdev-noob repo.
 
 Edited in GitHub after commit published.
+
+OK back in VSCode after hitting the Sync icon on the repositories tab for nbdev-noob.
+
